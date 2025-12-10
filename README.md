@@ -113,7 +113,7 @@ Relaciona `Aluno` ↔ `Turma`, contendo nota e frequência.
 ### **1. Clonar o repositório**
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/airtonjunior2016/sis_academico.git
 
 ```
 
