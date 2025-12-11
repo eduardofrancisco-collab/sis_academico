@@ -135,9 +135,7 @@ menu()
 
 ---
 
-# 📚 Menu do Sistema
-
-```
+# 📚 Menu do Sistema```
 1. Adicionar curso
 2. Adicionar turma
 3. Adicionar aluno
@@ -145,6 +143,16 @@ menu()
 5. Registrar nota
 6. Registrar frequência
 7. Histórico do aluno
+8. Editar curso
+9. Excluir curso
+10. Editar turma
+11. Excluir turma
+12. Editar aluno
+13. Excluir aluno
+14. Listar cursos
+15. Listar turmas
+16. Listar alunos
+17. Calcular CR (aluno)
 0. Sair
 
 ```
