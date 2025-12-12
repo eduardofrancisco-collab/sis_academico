@@ -5,7 +5,7 @@
 ---
 ## CURSO ANALISE E DESENVOLVIMENTO DE SISTEMAS - PROGRAMAÇÃO ORIENTADA OBJETO (PROJETO FINAL)
 
-**ALUNOS**: 
+**ALUNOS**: :rocket:
 * Francisco Airton Araujo Junior - 2023010960
 * Francisco Eduardo da Silva - 2023009600
 * Ismael Gomes da Silva - 2023011143
