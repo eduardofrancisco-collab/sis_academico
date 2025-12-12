@@ -1,7 +1,5 @@
 # 📘 **README – Sistema Acadêmico**
 
-# 🎓 Sistema Acadêmico – Python + SQLite
-
 ---
 ## CURSO ANALISE E DESENVOLVIMENTO DE SISTEMAS - PROGRAMAÇÃO ORIENTADA OBJETO (PROJETO FINAL)
 
